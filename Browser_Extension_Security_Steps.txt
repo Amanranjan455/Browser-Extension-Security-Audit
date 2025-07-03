@@ -1,0 +1,36 @@
+Browser Extension Security Audit - Step-by-Step
+
+1. Open Your Browser’s Extension/Add-ons Manager:
+   - Chrome: Menu (⋮) → Extensions → Manage Extensions
+   - Firefox: Menu (☰) → Add-ons → Extensions
+   - Edge: Menu (⋯) → Extensions → Manage Extensions
+
+2. Review All Installed Extensions:
+   - Look for unfamiliar or outdated extensions.
+
+3. Check Permissions and Reviews:
+   - Review what access each extension has.
+   - Be cautious if they request access to all websites or clipboard.
+   - Check the developer and reviews.
+
+4. Identify Any Unused or Suspicious Extensions:
+   - Unfamiliar? Poor reviews? Excessive permissions? → Remove.
+
+5. Remove Suspicious or Unnecessary Extensions:
+   - Click "Remove" or "Delete" next to untrusted extensions.
+
+6. Restart Browser:
+   - Check for better performance, stability, and fewer pop-ups.
+
+7. Understand the Risks of Malicious Extensions:
+   - Data theft
+   - Ad injection
+   - Search hijacking
+   - Slowed performance
+   - Hidden background activity
+
+8. Document Your Audit:
+   Example:
+   - Reviewed 5 extensions
+   - Removed "Unwanted PDF Tool"
+   - Browser speed improved
